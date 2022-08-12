@@ -1,6 +1,6 @@
 
 - Instituto Federal de Goiás
-- Estudante de Desenvolvimento Web(HTML,CSS e JAVASCRIPT)
+- Estagiário em Desenvolvimento Fullstack
 - Ele/Dele
 - Apaixonado por Sushis e variados 🍣
 <div>
