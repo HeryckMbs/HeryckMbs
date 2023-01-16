@@ -44,13 +44,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Soldado EV** \
 [**Exército Brasileiro**](https://www.spacex.com/) • Full-time \
- \
+ Tempo de trabalho: `01/03/2021 - 14/01/2022 (10 Meses)`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg"/>](https://nubank.com.br/)
 
 **Estagiário Fullstack/Mobile** \
 [**ABL PRIME**](https://rocketseat.com.br/) • Intern \
+Tempo de trabalho: `04/07/2022 - 03/01/2023 (6 Meses)`
 Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
@@ -59,6 +60,7 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 
 **Desenvolvedor FullStack Jr** \
 [**NET SUPREMA**](https://nubank.com.br/) • Contract \
+Tempo de trabalho: `04/01/2023 - Hoje`
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
