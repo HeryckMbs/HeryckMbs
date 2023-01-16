@@ -55,10 +55,10 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/assets/images/logo.png"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>](https://nubank.com.br/)
 
 **Desenvolvedor FullStack Jr** \
-[**Nubank**](https://nubank.com.br/) • Contract \
+[**NET SUPREMA**](https://nubank.com.br/) • Contract \
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
