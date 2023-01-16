@@ -51,8 +51,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Estagiário Fullstack/Mobile** \
 [**ABL PRIME**](https://rocketseat.com.br/) • Intern \
-Tempo de trabalho: `04/07/2022 - 03/01/2023 (6 Meses)`
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
+Tempo de trabalho: `04/07/2022 - 03/01/2023 (6 Meses)`\
+Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
@@ -60,8 +60,8 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 
 **Desenvolvedor FullStack Jr** \
 [**NET SUPREMA**](https://nubank.com.br/) • Contract \
-Tempo de trabalho: `04/01/2023 - Hoje`
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Tempo de trabalho: `04/01/2023 - Hoje`\
+Linguagens & Tecnologias: `PHP`,`PostgreSql`,`Orientação a Objetos`
 Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
