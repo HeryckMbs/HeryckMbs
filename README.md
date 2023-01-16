@@ -5,12 +5,17 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```php
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+class DevFullstack {
+ public $name = "Heryck Mota";
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ public $acknowledgements = ['MVC','structured database','Backend','Frontend(loading)'];
+ 
+ public $languages = ['PHP', 'JS']; 
+ 
+ public $skills = [ 
+                    'Front-end' => ['Jquery', 'Ajax', 'Bootstrap']
+                    'Back-end' => ['Laravel','SQL','Node']
+                  ];
 
 }
 ```
