@@ -40,7 +40,7 @@ class DevFullstack {
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg)"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg"/>](https://nubank.com.br/)
 
 **Soldado EV** \
 [**Exército Brasileiro**](https://www.spacex.com/) • Full-time \
