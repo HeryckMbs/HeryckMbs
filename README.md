@@ -55,9 +55,9 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg](https://netsuprema.com.br/assets/images/logo.png"/>](https://nubank.com.br/)
 
-**Software Engineer** \
+**Desenvolvedor FullStack Jr** \
 [**Nubank**](https://nubank.com.br/) • Contract \
 Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
 Projetos em destaque: [App](https://nubank.com.br/)
