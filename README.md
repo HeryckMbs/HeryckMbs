@@ -47,7 +47,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
  \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="[https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg](https://scontent.fgyn3-1.fna.fbcdn.net/v/t39.30808-6/325265263_691041565850597_1700954533646675220_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZyfOlDMb-X0AX-dh54W&_nc_zt=23&_nc_ht=scontent.fgyn3-1.fna&oh=00_AfARRCOWMcbKnGoXkVgFApsNG6HGMaOjsnq_hwVBQDX7VQ&oe=63CA6170)"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg"/>](https://nubank.com.br/)
 
 **Estagiário Fullstack/Mobile** \
 [**ABL PRIME**](https://rocketseat.com.br/) • Intern \
