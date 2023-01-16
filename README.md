@@ -1,8 +1,7 @@
 
 - Instituto Federal de Goiás
-- Estagiário em Desenvolvimento Fullstack
-- Ele/Dele
-- Apaixonado por Sushis e variados 🍣
+- Desenvolvedor FullStack(PHP - Laravel
+
 <div>
 <a href="https://www.instagram.com/heryck_mbss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/heryckmbss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
