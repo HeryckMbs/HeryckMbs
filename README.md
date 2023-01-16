@@ -55,7 +55,7 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg](https://netsuprema.com.br/assets/images/logo.png](https://scontent.fgyn3-1.fna.fbcdn.net/v/t39.30808-6/304846521_537993278332753_2776821840091574286_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UrMoTI4UWFYAX8G7xFX&_nc_zt=23&_nc_ht=scontent.fgyn3-1.fna&oh=00_AfBycup2ym_NQyzuzOzSfjjCU4s9L0gJbOujEABXIWvSCQ&oe=63CACE38"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/assets/images/logo.png"/>](https://nubank.com.br/)
 
 **Desenvolvedor FullStack Jr** \
 [**Nubank**](https://nubank.com.br/) • Contract \
