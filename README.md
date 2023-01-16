@@ -23,7 +23,7 @@ class DevFullstack {
 ## **Linguagens e Ferramentas:**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,jquery,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,nodejs,jquery,git" />
   </a>
 </p>
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
