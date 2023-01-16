@@ -44,13 +44,13 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Soldado EV** \
 [**Exército Brasileiro**](https://www.spacex.com/) • Full-time \
- ,\
+ \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src=""/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Nubank" src="[https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg](https://scontent.fgyn3-1.fna.fbcdn.net/v/t39.30808-6/325265263_691041565850597_1700954533646675220_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZyfOlDMb-X0AX-dh54W&_nc_zt=23&_nc_ht=scontent.fgyn3-1.fna&oh=00_AfARRCOWMcbKnGoXkVgFApsNG6HGMaOjsnq_hwVBQDX7VQ&oe=63CA6170)"/>](https://nubank.com.br/)
 
 **Estagiário Fullstack/Mobile** \
-[**Rocketseat**](https://rocketseat.com.br/) • Intern \
+[**ABL PRIME**](https://rocketseat.com.br/) • Intern \
 Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
