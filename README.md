@@ -19,7 +19,7 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
   <a href="https://www.linkedin.com/in/heryckmbss/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="Youtube">
+  <a href="https://www.youtube.com/channel/UCf1mQAEoei994N0jgGnU1Ew" alt="Youtube">
   <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube"/></a>
 
 </p>  
