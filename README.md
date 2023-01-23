@@ -4,7 +4,7 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Meu nome é Heryck e sou desenvolvedor Fullstack(PHP). Atualmente possuo 6 meses de carreira onde já atuei com Laravel e hoje PHP puro.
+ Meu nome é Heryck e sou desenvolvedor Backend(PHP). Atualmente possuo 6 meses de carreira onde já atuei com Laravel e hoje PHP puro.
 </p>
 
 <p align="left">
@@ -31,25 +31,6 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
   </a>
 </p>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```php
-class DevFullstack {
- public $name = "Heryck Mota";
- 
- public $acknowledgements = ['MVC','structured database','Backend','Frontend(loading)'];
- 
- public $languages = ['PHP', 'JS', 'SQL']; 
- 
- public $skills = [ 
-                    'Front-end' => ['Jquery', 'Ajax', 'Bootstrap']
-                    'Back-end' => ['Laravel','SQL','PHP']
-                  ];
-
-}
-```
-
-
 ### **Experiência de trabalho**
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -63,7 +44,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg"/>](https://nubank.com.br/)
 
-**Estagiário Fullstack/Mobile** \
+**Estagiário de Desenvolvimento Web** \
 [**ABL PRIME**](https://ablprime.com.br/) • Intern \
 Tempo de trabalho: `04/07/2022 - 03/01/2023 (6 Meses)`\
 Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
