@@ -4,7 +4,7 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Meu nome é Heryck e sou desenvolvedor Backend(PHP). Atualmente possuo 6 meses de carreira onde já atuei com Laravel e hoje PHP puro.
+ Meu nome é Heryck e sou desenvolvedor Backend(PHP). Atualmente possuo 8 meses de carreira onde já atuei com Laravel e hoje PHP puro.
 </p>
 
 <p align="left">
