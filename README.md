@@ -51,7 +51,7 @@ Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flut
 Descrição : `Criação de novas funcionalidades, manutenção dos sistemas da empresa, Criação de API's` \
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>](https://nubank.com.br/)
+<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>
 **Desenvolvedor FullStack Jr** \
 [**NET SUPREMA**](https://netsuprema.com.br/) • CLT \
 Tempo de trabalho: `04/01/2023 - Hoje`\
