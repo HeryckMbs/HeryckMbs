@@ -27,7 +27,7 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
 ## **Linguagens e Ferramentas:**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,jquery,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,flutter,firebase,bootstrap,js,jquery,git" />
   </a>
 </p>
 
