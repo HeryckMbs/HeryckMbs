@@ -1,15 +1,14 @@
-### Olá! 😁
-Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+### Hello/Olá! 😁
+Here is my [LinkedIn](https://www.linkedin.com/in/heryckmbss/) for a description with more details of my carrer, studies and certifications.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Meu nome é Heryck e sou desenvolvedor Backend(PHP). Atuo na profissão desde 04/07/2022 trabalhando com PHP, Laravel, orientação a objetos e Banco de dados 
+ My name is Heryck and I'm a Backend Software Developer. I started my career in July 2022 working with PHP, Laravel, Object-Oriented-Programming and Databases.
 </p>
 
 <p align="left">
-  Abaixo estão lugares onde você pode entrar em contato comigo para dúvidas, sugestões ou quem sabe ofertas de emprego.
-  E também estou deixando meu canal do YouTube onde dou demonstração de alguns projetos que estou fazendo
+ Bellow there are some places that you can send a message for doubts, suggestions or maybe a job offert. I'm letting my YouTube channel too where I will post some classes about PHP and show some projects.
 </p>
 
 <p align="left">
@@ -24,40 +23,34 @@ Aqui está meu [LinkedIn](https://www.linkedin.com/in/heryckmbss/) para uma desc
 
 </p>  
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Technologies:**  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,flutter,firebase,bootstrap,js,jquery,git" />
   </a>
 </p>
 
-### **Experiência de trabalho**
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### **Work experience**
+In this section you are going see my main work experiences with Information-Technology :
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://v5j9q4b5.rocketcdn.me/wp-content/uploads/2021/04/simbolos-do-exercito-brasileiro-o-que-representam-os-emblemas-militares.jpg"/>](https://nubank.com.br/)
-
-**Soldado EV** \
-[**Exército Brasileiro**](https://www.eb.mil.br) • Full-time \
- Tempo de trabalho: `01/03/2021 - 14/01/2022 (10 Meses)`\
- Descrição: `Trabalho em equipe, Proatividade, Resiliência`
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>]
+**Software Developer Jr** \
+[**NET SUPRE INFORMÁTICA**](https://netsuprema.com.br/) • CLT \
+Work time: `04/01/2023 - Hoje`\
+Description: `Maintenance of the existing systems, Development of new funcionalities, Develop new funcionalities using integration between diferent systems, Develop and understand complex SQL queries with complex bussiness rules`\
+Languages and Technologies: `PHP`,`PostgreSql`,`Object-Oriented-Programming`, `Javascript`, `Laravel`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg"/>](https://nubank.com.br/)
-
-**Estagiário de Desenvolvimento Web** \
+**Software Developer Interneship** \
 [**ABL PRIME**](https://ablprime.com.br/) • Intern \
-Tempo de trabalho: `04/07/2022 - 03/01/2023 (6 Meses)`\
-Linguagens & Tecnologias: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
-Descrição : `Criação de novas funcionalidades, manutenção dos sistemas da empresa, Criação de API's` \
+Work time: `04/07/2022 - 03/01/2023 (6 Meses)`\
+Languages and Technologies: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
+Description : `Development of new funcionalities(front and backend), maintenance of the existing systems,Development of API'S,` \
+Best activity done: `I implemented swagger and start documenting some endpoints of the system`\
 <!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>]
-**Desenvolvedor FullStack Jr** \
-[**NET SUPREMA**](https://netsuprema.com.br/) • CLT \
-Tempo de trabalho: `04/01/2023 - Hoje`\
-Linguagens & Tecnologias: `PHP`,`PostgreSql`,`Orientação a Objetos`
-<br/>
 <br/>
 
 
