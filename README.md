@@ -8,7 +8,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/heryckmbss/) for a description
 </p>
 
 <p align="left">
- Bellow there are some places that you can send a message for doubts, suggestions or maybe a job offert. I'm letting my YouTube channel too where I will post some classes about PHP and show some projects.
+ Bellow there are some places that you can send a message for doubts, suggestions or maybe a job offert. I'm letting my YouTube channel too where I will post some classes about PHP and show projects that I have been coding.
 </p>
 
 <p align="left">
