@@ -33,9 +33,9 @@ Here is my [LinkedIn](https://www.linkedin.com/in/heryckmbss/) for a description
 ### **Work experience**
 In this section you are going see my main work experiences with Information-Technology :
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="[https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg](https://laboratorioraca.com.br/client/admin-logo.png)"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="150px" src="https://laboratorioraca.com.br/client/admin-logo.png"/>]
 **Software Developer Laravel** \
-[**ABL PRIME**]([https://ablprime.com.br](https://laboratorioraca.com.br/) • CLT \
+[**LABORATÓRIO RAÇA**]([https://ablprime.com.br](https://laboratorioraca.com.br/)) • CLT \
 Work time: `19/06/2023 - Today`\
 Languages and Technologies: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Git & BitBucket`,`Jquery & Ajax`\
 Description : `Development of new funcionalities(front and backend), maintenance of the existing systems,Development of API'S,Integration between systems and payments` \
