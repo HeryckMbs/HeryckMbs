@@ -36,7 +36,7 @@ In this section you are going see my main work experiences with Information-Tech
 [<img align="left" height="94px" width="150px" src="https://laboratorioraca.com.br/client/admin-logo.png"/>]
 **Software Developer Laravel** \
 [**LABORATÓRIO RAÇA**]([https://ablprime.com.br](https://laboratorioraca.com.br/)) • CLT \
-Work time: `19/06/2023 - Today`\
+Work time: `19/06/2023 - 01/12/2023`\
 Languages and Technologies: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Git & BitBucket`,`Jquery & Ajax`\
 Description : `Development of new funcionalities(front and backend), maintenance of the existing systems,Development of API'S,Integration between systems and payments` \
 Best activity done: `I implemented a system of reset passwords`\
