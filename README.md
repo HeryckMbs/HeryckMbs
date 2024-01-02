@@ -30,35 +30,6 @@ Here is my [LinkedIn](https://www.linkedin.com/in/heryckmbss/) for a description
   </a>
 </p>
 
-### **Work experience**
-In this section you are going see my main work experiences with Information-Technology :
-
-[<img align="left" height="94px" width="150px" src="https://laboratorioraca.com.br/client/admin-logo.png"/>]
-**Software Developer Laravel** \
-[**LABORATÓRIO RAÇA**]([https://ablprime.com.br](https://laboratorioraca.com.br/)) • CLT \
-Work time: `19/06/2023 - 01/12/2023`\
-Languages and Technologies: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Git & BitBucket`,`Jquery & Ajax`\
-Description : `Development of new funcionalities(front and backend), maintenance of the existing systems,Development of API'S,Integration between systems and payments` \
-Best activity done: `I implemented a system of reset passwords`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://netsuprema.com.br/img/logo-whatsapp.png"/>]
-**Software Developer Jr** \
-[**NET SUPRE INFORMÁTICA**](https://netsuprema.com.br/) • CLT \
-Work time: `04/01/2023 - 16/06/2023`\
-Description: `Maintenance of the existing systems, Development of new funcionalities, Develop new funcionalities using integration between diferent systems, Develop and understand complex SQL queries with complex bussiness rules`\
-Languages and Technologies: `PHP`,`PostgreSql`,`Object-Oriented-Programming`, `Javascript`, `Laravel`\
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/7a/d2/a6/7ad2a6af-3e41-34a8-2a76-76a078052f01/source/512x512bb.jpg"/>](https://nubank.com.br/)
-**Software Developer Interneship** \
-[**ABL PRIME**](https://ablprime.com.br/) • Intern \
-Work time: `04/07/2022 - 03/01/2023 (6 months)`\
-Languages and Technologies: `JavaScript`, `PHP`, `Laravel`,`Bootstrap`,`SQL`,`Flutter & Dart`,`Jquery & Ajax`\
-Description : `Development of new funcionalities(front and backend), maintenance of the existing systems,Development of API'S,` \
-Best activity done: `I implemented swagger and start documenting some endpoints of the system`\
-<!-- Projetos em destaque: [Ignite](), [Bootcamp]() -->
-<br/>
 
 
 
